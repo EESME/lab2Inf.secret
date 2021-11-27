@@ -1,2 +1,2 @@
-# lab2Inf.secret
+# lab6Inf.secret
 Информационная безопасность(лаб)
